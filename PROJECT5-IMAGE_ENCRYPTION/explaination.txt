@@ -1,0 +1,5 @@
+converted image into bytes
+performed XOR operation on the key and byte array     //for encryption
+performed XOR operation again on key and byte array   //for decryption
+
+the main aspect is the key must be known.....
