@@ -1,3 +1,4 @@
+********************THIS IS SUBSTITUTION CIPHER**********************
 used characters of ascii table from character 32 to 126....
 
 created a constructor of all variables
